@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# servicios_app
-
-A new Flutter project.
-=======
 
 # FlutterApp "Taskers MX" 
 
@@ -40,4 +35,3 @@ A new Flutter project.
            
   
 </div>  
->>>>>>> 222e26f283503093535f8d888b47c219d93221e6
