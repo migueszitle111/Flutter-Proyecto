@@ -1,0 +1,37 @@
+name: servicios_app
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+  cupertino_icons: ^1.0.6
+  fluttertoast: ^8.0.8
+  google_sign_in: ^6.1.5
+  provider: ^6.0.5
+  firebase_core: ^2.21.0
+  cloud_firestore: ^4.12.2
+  firebase_auth: ^4.12.1
+  salomon_bottom_bar: ^3.3.2
+  flutter_rating_bar: ^4.0.1
+  get: ^4.6.6
+  flutter_local_notifications: ^16.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/
